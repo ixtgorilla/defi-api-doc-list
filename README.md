@@ -1,13 +1,19 @@
+￼
 
 
 # DEX
 
-### Bisq
+
+## EtherDelta API
+
+https://github.com/etherdelta/etherdelta.github.io/blob/master/site/docs/API.md
+
+## Bisq
 
 https://bisq.network/
 https://markets.bisq.network/api/
 
-### 0x 
+## 0x 
 https://0x.org/
 https://github.com/0xProject/standard-relayer-api
 
@@ -41,20 +47,44 @@ https://developers.airswap.io/#/
 https://uniswap.io/
 https://docs.uniswap.io/smart-contract-api/exchange
 
+### IDEX
+https://docs.idex.market/#operation/returnCompleteBalances
 
-### Wyre
-https://docs.sendwyre.com/docs/general
+### OasisDEX(Maker)
+https://developer.makerdao.com/oasis/
+
+### APIFinex
+https://www.ethfinex.com/api_docs
+https://docs.ethfinex.com/
+
+*Bitfinex
+https://docs.bitfinex.com/v2/docs/rest-general
+https://docs.bitfinex.com/v2/docs/ws-general
 
 
-### 0x
+### RaderRELAY
+https://developers.radarrelay.com/
 
-#### Standard Relayer API
-https://github.com/0xProject/standard-relayer-api
+### Deter.io
 
-### Bancor
+https://github.com/dethertech/dether.web3
 
-### RESTful
-https://support.bancor.network/hc/en-us/sections/360001492551-Developer-Tools
+### ETH2Dai
+
+https://github.com/OasisDEX/eth2dai
+
+
+### TOTLE
+
+https://www.totle.com/developers
+https://totle.typeform.com/to/Fo98lk
+
+
+
+# NFT
+
+https://docs.opensea.io/docs
+
 
 # Lending
 
@@ -64,9 +94,4 @@ https://docs.uniswap.io/smart-contract-api/exchange
 ### Dharma
 https://dharma.io/
 https://developer.dharma.io/
-
-
-# NFT
-
-https://docs.opensea.io/docs
 
