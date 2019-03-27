@@ -15,6 +15,7 @@ https://markets.bisq.network/api/
 
 ## 0x 
 https://0x.org/
+https://0x.org/docs
 https://github.com/0xProject/standard-relayer-api
 
 ### Bancor
